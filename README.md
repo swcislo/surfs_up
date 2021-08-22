@@ -6,21 +6,21 @@
 ## Results
 ### June 2017
 For June 2017, temperature readings of 1,700 were reviewed and utilized in the analysis. For June 2017, results were as follows:
--Average temperature was 75 ° F
--Minimum temperature was 64 ° F
--Maximum temperature was 85 ° F
--First quartile is 73 ° F
--Median is 75 ° F
--Third quartile is 77 ° F
+*Average temperature was 75 ° F
+*Minimum temperature was 64 ° F
+*Maximum temperature was 85 ° F
+*First quartile is 73 ° F
+*Median is 75 ° F
+*Third quartile is 77 ° F
 
 ### December 2017
 For December 2017, temperature readings of 1,517 were reviewed and utilized in the analysis. For December 2017, results were as follows:
--Average temperature was 71 ° F
--Minimum temperature was 56 ° F
--Maximum temperature was 83 ° F
--First quartile is 69 ° F
--Median is 71 ° F
--Third quartile is 74 ° F
+*Average temperature was 71 ° F
+*Minimum temperature was 56 ° F
+*Maximum temperature was 83 ° F
+*First quartile is 69 ° F
+*Median is 71 ° F
+*Third quartile is 74 ° F
 
 When comparing the results from June 2017 and December 2017, the 75% of the temperature readings in December 2017 are below 74° F. The maximum temperatures for June 2017 and December 2017 are only 2 °F apart. The mean and median for June 2017 are the same which indicates a perfectly symmetrical distribution. The same is also true for December 2017.
 
